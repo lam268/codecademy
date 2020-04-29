@@ -1,8 +1,11 @@
 # Codecademy 
 ## Data science path
 ## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use DBBrowser with Sqlite:
+```bash
+https://sqlitebrowser.org/dl/
+```
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
 
 ```bash
 pip install seaborn
