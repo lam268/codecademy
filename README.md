@@ -1,5 +1,5 @@
 # Codecademy 
-## Data science path
+- Data science path
 ## Installation
 Use DBBrowser with Sqlite:
 ```bash
