@@ -1,5 +1,4 @@
 # Codecademy 
-- Data science path
 ## Installation
 Use DBBrowser with Sqlite:
 ```bash
@@ -12,7 +11,7 @@ pip install seaborn
 pip install maplotlib
 pip install pandas
 ```
-
+##Data science path
 ### 1. Basic Sql:
 * topic/sql
 ### 2. Basic pandas: This is jeopardy
